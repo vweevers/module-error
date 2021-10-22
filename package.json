@@ -1,6 +1,6 @@
 {
   "name": "module-error",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create errors with code and cause properties",
   "license": "MIT",
   "author": "Vincent Weevers",
