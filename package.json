@@ -5,10 +5,13 @@
   "license": "MIT",
   "author": "Vincent Weevers",
   "scripts": {
-    "test": "standard && tsc && hallmark && node test"
+    "test": "standard && tsc && hallmark && node test",
+    "build": "tsc -d --emitDeclarationOnly --noEmit false"
   },
+  "types": "./index.d.ts",
   "files": [
     "index.js",
+    "index.d.ts",
     "CHANGELOG.md"
   ],
   "devDependencies": {
