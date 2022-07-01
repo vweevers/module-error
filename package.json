@@ -15,7 +15,7 @@
     "CHANGELOG.md"
   ],
   "devDependencies": {
-    "@types/node": "^17.0.6",
+    "@types/node": "^18.0.0",
     "@voxpelli/tsconfig": "^4.0.0",
     "hallmark": "^4.0.0",
     "standard": "^17.0.0",
